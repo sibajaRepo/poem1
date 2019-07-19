@@ -1,6 +1,7 @@
 The Rainbow file
 purple
 pink
+green
 orange
 blue
 red
